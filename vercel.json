@@ -1,7 +1,7 @@
 {
   "rewrites":[
     {
-      "source ":"/api/:match",
+      "source":"/api/:match",
       "destination":"https://music.qier222.com/:match*"
     }
   ]
